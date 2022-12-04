@@ -1,4 +1,4 @@
-hi am lowercasetext and I have severe brain damage
+hi am lowercasetext and I have severe brain damage.
 I sit on a computer all the time because I am a pointdexter.
 
 if you also want to have severe brain damage, then check out my code.
